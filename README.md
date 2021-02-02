@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  Construction of the first backend application with node.js
+  Construction of the first front-end application.
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dionbiancha/reactjs-concept-challenge.svg">
@@ -26,6 +26,10 @@
   </a>
 
   <img alt="GitHub" src="https://img.shields.io/github/license/dionbiancha/reactjs-concept-challenge.svg">
+</p>
+
+<p align="center">
+  <img alt="Gif" src="https://res.cloudinary.com/dionbiancha/image/upload/v1612286761/github/123_tgddzc.gif">
 </p>
 
 <p align="center">
